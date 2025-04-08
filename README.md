@@ -1,4 +1,4 @@
-# Project Name
+# QueueEase
 
 A robust backend server utilizing Node.js, Express, and MongoDB to serve data for a React.js front-end application.
 
@@ -214,23 +214,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact Information
 For further inquiries or support, please contact:
 
-Name: Your Name
+Name: Team LesGo
 
-Email: your.email@example.com
-
-GitHub: yourusername
+Email: lesgoqueueease@gmail.com
 
 This README file is intended for developers, stakeholders, and any interested parties involved in the project development. It provides key information regarding setup, usage, and future contributions.
 
-pgsql
-Copy
-Edit
-
----
-
-This README template is designed to be thorough and clear, ensuring that both developers and non-developers can understand the structure and functionality of the backend server and its integration with a React.js front-end. Adjust and expand on each section as necessary to cater to the specific needs of your project.
-
-2/2
 
 
 
